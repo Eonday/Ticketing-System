@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "openai": "^5.8.2"
+  },
+  "name": "ticketing-system-1",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "node" : "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eonday/Ticketing-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eonday/Ticketing-System/issues"
+  },
+  "homepage": "https://github.com/Eonday/Ticketing-System#readme",
+  "description": ""
+}
