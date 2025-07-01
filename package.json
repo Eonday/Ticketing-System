@@ -6,7 +6,7 @@
   "name": "ticketing-system-1",
   "version": "1.0.0",
   "main": "Main.js",
-  "node" : "module",
+  "type": "module",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
